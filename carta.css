@@ -1,0 +1,49 @@
+body{
+ font-family: 'Times New Roman', Times, serif;
+background-color:bisque;
+margin: 0;
+}
+.contenedor{
+    text-align: center;
+}
+.BTN{
+    border-radius: 10px;
+    margin: 0;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #f433c5;
+    font-size:x-large;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+}
+button{
+    border-radius: 10px;
+    margin: 0;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #f433c5;
+    font-size:x-large;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;    
+}
+.siBTN{
+    border-radius: 10px;
+    margin: 0;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #f433c5;
+    font-size:x-large;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+}
+#NOBTN{
+    position: absolute;
+}
